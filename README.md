@@ -1,4 +1,4 @@
 # Vitalii Padii
 My home tasks
-- https://vitaliipadii.github.io/home-task/
-- https://vitaliipadii.github.io/Rezume/
+-[website list] (https://vitaliipadii.github.io/home-task/)
+-[rezume] (https://vitaliipadii.github.io/Rezume/)
