@@ -8,3 +8,4 @@
 - [Website Hard](https://vitaliipadii.github.io/website-hard/)
 - [about-me-psd_02](https://vitaliipadii.github.io/about-me-psd/)
 - [Service](https://vitaliipadii.github.io/Service/)
+- [CSS Dinner shopping list](https://vitaliipadii.github.io/CSS-Dinner-Shopping-list/)
