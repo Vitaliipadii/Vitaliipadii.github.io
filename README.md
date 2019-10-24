@@ -9,3 +9,4 @@
 - [about-me-psd_02](https://vitaliipadii.github.io/about-me-psd/)
 - [Service](https://vitaliipadii.github.io/Service/)
 - [CSS Dinner shopping list](https://vitaliipadii.github.io/CSS-Dinner-Shopping-list/)
+- [Namaste & Hello](https://vitaliipadii.github.io/namaste-hello/)
