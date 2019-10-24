@@ -10,3 +10,4 @@
 - [Service](https://vitaliipadii.github.io/Service/)
 - [CSS Dinner shopping list](https://vitaliipadii.github.io/CSS-Dinner-Shopping-list/)
 - [Namaste & Hello](https://vitaliipadii.github.io/namaste-hello/)
+- [Mail form](https://vitaliipadii.github.io/mail-form/)
