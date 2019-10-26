@@ -13,3 +13,4 @@
 - [Mail form](https://vitaliipadii.github.io/mail-form/)
 - [Weather](https://vitaliipadii.github.io/weather/)
 - [Flex-coffe](https://vitaliipadii.github.io/flex-coffe/)
+- [Flex-Web](https://vitaliipadii.github.io/flex-web/)
