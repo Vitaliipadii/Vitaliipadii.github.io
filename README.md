@@ -14,3 +14,4 @@
 - [Weather](https://vitaliipadii.github.io/weather/)
 - [Flex-coffe](https://vitaliipadii.github.io/flex-coffe/)
 - [Flex-Web](https://vitaliipadii.github.io/flex-web/)
+- [Font-face-psd-1](https://vitaliipadii.github.io/font-face-psd-1/)
