@@ -17,4 +17,4 @@
 - [Font-Face-psd-1](https://vitaliipadii.github.io/font-face-psd-1/)
 - [Font-Face-psd-2](https://vitaliipadii.github.io/font-face-psd-2/)
 - [Position & Transition psd-1](https://vitaliipadii.github.io/position-transition-psd-1/)
-- [Pposition-Transition-psd-2](https://vitaliipadii.github.io/position-transition-psd-2/)
+- [Position-Transition-psd-2](https://vitaliipadii.github.io/position-transition-psd-2/)
