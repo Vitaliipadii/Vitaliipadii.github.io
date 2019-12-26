@@ -28,3 +28,4 @@
 - [js-type-data-Cycles](https://vitaliipadii.github.io/js-type-data-cyces/)
 - [js-function](https://vitaliipadii.github.io/js-function/)
 - [js-object](https://vitaliipadii.github.io/js-object/)
+- [project-1](https://vitaliipadii.github.io/project-1/)
