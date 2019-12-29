@@ -30,3 +30,4 @@
 - [js-object](https://vitaliipadii.github.io/js-object/)
 - [project-1](https://vitaliipadii.github.io/project-1/)
 - [js-Sobitija-key&mouse](https://vitaliipadii.github.io/sobitija-key-mouse/)
+- [js-kalkulator](https://vitaliipadii.github.io/kalkulator/)
