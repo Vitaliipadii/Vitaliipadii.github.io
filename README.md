@@ -28,7 +28,7 @@ HTML-5
 - [Cahee-all-psd](https://vitaliipadii.github.io/cahee/)
 - [Examen-Verstka](https://vitaliipadii.github.io/examen-html-css/)
 
-- Java Script -
+Java Script
 
 - [js-type-data-Cycles](https://vitaliipadii.github.io/js-type-data-cyces/)
 - [js-function](https://vitaliipadii.github.io/js-function/)
