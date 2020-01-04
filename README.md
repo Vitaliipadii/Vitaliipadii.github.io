@@ -1,5 +1,8 @@
 # Vitalii Padii
 ## My home tasks
+
+- HTML-5 -
+
 - [Website list](https://vitaliipadii.github.io/home-task/)
 - [Form action](https://vitaliipadii.github.io/Form-action/)
 - [Rezume](https://vitaliipadii.github.io/Rezume/)
@@ -24,10 +27,13 @@
 - [Prepros-homework](https://vitaliipadii.github.io/prepros-home/)
 - [Cahee-all-psd](https://vitaliipadii.github.io/cahee/)
 - [Examen-Verstka](https://vitaliipadii.github.io/examen-html-css/)
+
 - Java Script -
+
 - [js-type-data-Cycles](https://vitaliipadii.github.io/js-type-data-cyces/)
 - [js-function](https://vitaliipadii.github.io/js-function/)
 - [js-object](https://vitaliipadii.github.io/js-object/)
 - [project-1](https://vitaliipadii.github.io/project-1/)
 - [js-Sobitija-key&mouse](https://vitaliipadii.github.io/sobitija-key-mouse/)
 - [js-kalkulator](https://vitaliipadii.github.io/kalkulator/)
+- [js-slick-slider](https://vitaliipadii.github.io/slick-slider/)
