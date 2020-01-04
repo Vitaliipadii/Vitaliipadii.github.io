@@ -1,7 +1,7 @@
 # Vitalii Padii
 ## My home tasks
 
-- HTML-5 -
+HTML-5 
 
 - [Website list](https://vitaliipadii.github.io/home-task/)
 - [Form action](https://vitaliipadii.github.io/Form-action/)
