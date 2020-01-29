@@ -37,3 +37,4 @@ Java Script
 - [js-Sobitija-key&mouse](https://vitaliipadii.github.io/sobitija-key-mouse/)
 - [js-kalkulator](https://vitaliipadii.github.io/kalkulator/)
 - [js-slick-slider](https://vitaliipadii.github.io/slick-slider/)
+-[Examen-verstka-js](https://vitaliipadii.github.io/examen-2/)
